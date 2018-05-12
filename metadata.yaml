@@ -1,0 +1,33 @@
+_repo: Piet-Uijsof-lijden-en-strijd-der-voortrekkers-in-Natal_37028
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37028-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Van der Post, C. W. H. (Christiaan Willem Hendrik)
+    aliases:
+    - Post, Christiaan Willem Hendrik van der
+    - Post, C. W. H. van der (Christiaan Willem Hendrik)
+    birthdate: 1856
+    deathdate: 1914
+    gutenberg_agent_id: '38601'
+    url: http://www.gutenberg.org/2009/agents/38601
+description: ''
+gutenberg_issued: '2011-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37028'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pioneers -- South Africa -- KwaZulu-Natal -- Fiction'
+- !lcsh 'South Africa -- History -- Great Trek, 1836-1840 -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Afrikaners -- Fiction'
+- !lcsh 'Uijs, Pieter Lafras, -1838 -- Fiction'
+- !lcsh 'KwaZulu-Natal (South Africa) -- History -- To 1843 -- Fiction'
+title: Piet Uijs, of lijden en strijd der voortrekkers in Natal
+url: http://www.gutenberg.org/ebooks/37028
